@@ -1,0 +1,91 @@
+#nick{
+	font-size: 110%;
+	margin: 5px;	
+}
+#First{
+	font-size: 110%;
+	margin: 5px;
+}
+#Last{
+	font-size: 110%;
+	margin: 5px;
+}
+#Email{
+	font-size: 110%;
+	margin: 5px;
+}
+#Birth{
+	font-size: 110%;
+	margin: 5px;
+}
+#Country{
+	font-size: 110%;
+	margin: 5px;
+}
+#pass{
+	font-size: 110%;
+	margin: 5px;
+}
+#back{
+	
+	font-size: 105%;
+	width: 60x;
+	cursor: pointer;
+	height: 30px;
+	font-family: myriad pro;
+	margin: 5px;
+}
+#sign_ip{
+	margin: 5px;
+	font-size: 105%;
+	width: 60x;
+	cursor: pointer;
+	height: 30px;
+	font-family: myriad pro;
+	float:left;
+}
+#sign_up{
+	margin: 5px;
+	font-size: 105%;
+	width: 60x;
+	cursor: pointer;
+	height: 30px;
+	font-family: myriad pro;
+	float:left;
+}
+#log_out{
+	margin: 5px;
+	font-size: 105%;
+	width: 60x;
+	cursor: pointer;
+	height: 30px;
+	font-family: myriad pro;
+}
+#login_mail{
+	margin: 5px;
+	font-size: 110%;
+}
+#login_pass{
+	font-size: 110%;
+	margin: 5px;
+}
+#login_button{
+	margin: 5px;
+	font-size: 105%;
+	width: 60x;
+	cursor: pointer;
+	height: 30px;
+	font-family: myriad pro;
+	float: left;
+}
+.products{
+	float: left;
+	width: 405px;
+	font-size: 150%;
+	padding: 10px;
+	margin: 5px;
+	background-color: grey;
+	color: white;
+	font-family: myriad pro;
+	
+}
